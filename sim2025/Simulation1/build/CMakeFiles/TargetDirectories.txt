@@ -1,0 +1,4 @@
+/home/frank/Scrivania/sim2025/Simulation1/build/CMakeFiles/sim.dir
+/home/frank/Scrivania/sim2025/Simulation1/build/CMakeFiles/Simulation1.dir
+/home/frank/Scrivania/sim2025/Simulation1/build/CMakeFiles/edit_cache.dir
+/home/frank/Scrivania/sim2025/Simulation1/build/CMakeFiles/rebuild_cache.dir
